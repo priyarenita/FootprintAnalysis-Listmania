@@ -14,3 +14,7 @@ Final project for CS585. A simple ios app to store checklists.
     
 # Running the Project
 When you run the project locally, the Firebase database should update real time, Footprint Analytics will track user behavior. Go to https://github.com/priyarenita/FootprintAnalytics to download and setup the backend and dashboard web application for analytics. 
+
+
+# References
+1. Getting Started with Firebase Tutorial (https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2)
